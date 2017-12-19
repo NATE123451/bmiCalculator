@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\bin\Debug\bmiCalculator.exe.config
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\bin\Debug\bmiCalculator.exe
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\bin\Debug\bmiCalculator.pdb
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\obj\Debug\bmiCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\obj\Debug\bmiCalculator.Properties.Resources.resources
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\obj\Debug\bmiCalculator.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\obj\Debug\bmiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\obj\Debug\bmiCalculator.exe
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\obj\Debug\bmiCalculator.pdb
+C:\Users\Owner\Desktop\SoftwareDev\C# Personal\bmiCalculator\bmiCalculator\obj\Debug\bmiCalculator.bmi_calculator.resources
